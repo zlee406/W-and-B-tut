@@ -1,0 +1,17 @@
+1. Describe W and B using prior project
+2. Show how to start a project
+3. Write train.py
+    a. logging metrics
+    b. saving models
+    c. seeing runs on wandb.com
+    d. run-through of using Keras, maybe
+4. Hyperparameter Sweeps
+    a. creating a sweep
+    b. yaml file
+    c. running sweep
+    d. agents in parallel
+    e. looking at outputs
+5. Community
+    a. Slack
+    b. Presentations/salon
+    c. tutorial

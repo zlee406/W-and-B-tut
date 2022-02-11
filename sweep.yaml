@@ -1,0 +1,14 @@
+program: sweep_train.py
+method: bayes
+metric:
+  name: Test r2
+  goal: minimize
+parameters:
+  n_estimators:
+    distribution: int_uniform
+    max: 100
+    min: 1
+  min_samples_leaf:
+    distribution: int_uniform
+    max: 100
+    min: 1
